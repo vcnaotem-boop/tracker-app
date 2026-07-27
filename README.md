@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/30427556/README.md)
 # Training Log
 
 Personal nutrition + training tracker. React + Vite. Data persists in your browser via localStorage.
